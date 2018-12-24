@@ -11,7 +11,7 @@ pygame.display.set_caption("bounce the ball")
 bg=pygame.image.load("scene.jpg")
 st=pygame.image.load("santa.png")
 dx=1
-dy=3
+dy=2
 y=height-21
 x1=100
 y1=200
